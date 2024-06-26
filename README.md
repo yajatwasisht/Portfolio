@@ -23,6 +23,9 @@ Here are some of the projects included in this portfolio:
 
 Each project offers a unique perspective on design and development, showcasing my skills and creativity.
 
+## Live Demo
+https://yajat-portfolio.netlify.app/
+
 ## Technologies Used
 
 - HTML
